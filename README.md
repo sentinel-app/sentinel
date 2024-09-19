@@ -1,16 +1,6 @@
-# sentinel
+# Sentinel - MATRIX Client
 
-A new Flutter project.
+Here is the complete source code and build instructions for the official Sentinel MATRIX client, based on the [MATRIX Client-Server API](https://spec.matrix.org/v1.11/client-server-api/).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> [!IMPORTANT]  
+> The source code is published under the GPLv3, the license is available [here](https://github.com/sentinel-app/sentinel/blob/main/LICENSE).
